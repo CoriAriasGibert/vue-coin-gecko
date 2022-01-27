@@ -1,4 +1,6 @@
-# vue-coin-gecko
+# VueJS & Coingecko API
+
+# Welcome to my cryptocurrency market price display application 📈🚀 
 
 ## Project setup
 ```
