@@ -25,11 +25,11 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-# computer view
+# Desktop view
 ![](computer-size-screen-view.png)
 
-# computer view using filer
+# Desktop view using filer
 ![](filter-computer-size-screen-view.png)
 
-# mobile view using filer
+# Mobile view
 ![](mobile-version.png)
